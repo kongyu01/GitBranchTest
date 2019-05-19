@@ -1,2 +1,6 @@
 AAAA
+<<<<<<< HEAD
 bbbb
+=======
+BBBB
+>>>>>>> refs/heads/分支B
