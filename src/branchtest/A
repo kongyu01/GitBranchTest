@@ -1,0 +1,19 @@
+AAAA
+<<<<<<< HEAD
+<<<<<<< HEAD
+bbbb
+=======
+BBBB
+>>>>>>> refs/heads/分支B
+
+
+dddd
+=======
+BBBB
+<<<<<<< HEAD
+CCCC
+>>>>>>> refs/heads/分支B
+=======
+CCCC
+DDDD
+>>>>>>> refs/heads/分支B
